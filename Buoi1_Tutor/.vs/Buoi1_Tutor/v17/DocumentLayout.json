@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|c:\\users\\hant\\source\\repos\\buoi1_tutor\\buoi1_tutor\\sanphamservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|solutionrelative:buoi1_tutor\\sanphamservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|c:\\users\\hant\\source\\repos\\buoi1_tutor\\buoi1_tutor\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|solutionrelative:buoi1_tutor\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|c:\\users\\hant\\source\\repos\\buoi1_tutor\\buoi1_tutor\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|solutionrelative:buoi1_tutor\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|c:\\users\\hant\\source\\repos\\buoi1_tutor\\buoi1_tutor\\caluclatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|solutionrelative:buoi1_tutor\\caluclatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|c:\\users\\hant\\source\\repos\\buoi1_tutor\\buoi1_tutor\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|solutionrelative:buoi1_tutor\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|c:\\users\\hant\\source\\repos\\buoi1_tutor\\buoi1_tutor\\caluclator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555D0B22-44EB-48DD-9E55-2E4EC470CFB4}|Buoi1_Tutor\\Buoi1_Tutor.csproj|solutionrelative:buoi1_tutor\\caluclator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\SanPhamServiceTest.cs",
+              "RelativeDocumentMoniker": "Buoi1_Tutor\\SanPhamServiceTest.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\SanPhamServiceTest.cs",
+              "RelativeToolTip": "Buoi1_Tutor\\SanPhamServiceTest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:37:56.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "Buoi1_Tutor\\SanPhamService.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\SanPhamService.cs",
+              "RelativeToolTip": "Buoi1_Tutor\\SanPhamService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:37:43.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\SanPham.cs",
+              "RelativeDocumentMoniker": "Buoi1_Tutor\\SanPham.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\SanPham.cs",
+              "RelativeToolTip": "Buoi1_Tutor\\SanPham.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T08:35:09.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CaluclatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\CaluclatorTest.cs",
+              "RelativeDocumentMoniker": "Buoi1_Tutor\\CaluclatorTest.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\CaluclatorTest.cs",
+              "RelativeToolTip": "Buoi1_Tutor\\CaluclatorTest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:24:59.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Caluclator.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\Caluclator.cs",
+              "RelativeDocumentMoniker": "Buoi1_Tutor\\Caluclator.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\Caluclator.cs",
+              "RelativeToolTip": "Buoi1_Tutor\\Caluclator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:18:58.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Buoi1_Tutor\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\HaNT\\source\\repos\\Buoi1_Tutor\\Buoi1_Tutor\\UnitTest1.cs",
+              "RelativeToolTip": "Buoi1_Tutor\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T07:16:31.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
